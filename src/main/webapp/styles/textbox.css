@@ -1,0 +1,43 @@
+.insidebox {
+	padding: 20px;
+	width: 50%;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	box-shadow: 5px 10px 8px #888888;
+}
+
+.outsidebox {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-style: solid;
+}
+
+.longbox {
+	padding: 20px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.splitbox {
+	padding: 10px;
+	border-radius: 5px;
+	margin: 0px auto;
+}
+
+.outsideboxpreview {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+	border-style: solid;
+}
+
+
