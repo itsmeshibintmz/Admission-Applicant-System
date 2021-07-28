@@ -18,7 +18,19 @@
 ---------------------
 ![Educational Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%203.png)
 - Community Details
+-------------------
 ![Community Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%204.png)
+- Guardian Details
+-------------------
+![Guardian Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page5.png)
+- Extra Curricular Activities
+-----------------------------
+![Extra Curricular Activities](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%206.png)
+- Preview Details
+------------------
+![Preview Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%207.png)
+- Success Page
+![Success Page](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%208.png)
 
 Requirements
 ------------
