@@ -4,7 +4,7 @@
   The main goal of the system is to automate the process carried out in the organization with improved performance and realize the vision of paperless admission.
 
 
-Screenshots
+# Screenshots
 -----------
 # - HomePage
 ![HomePage(start jsp)](https://user-images.githubusercontent.com/52344717/125885951-5c9382b2-7dc6-409a-a172-7d6505a4ccbc.png)
