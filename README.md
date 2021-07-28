@@ -18,8 +18,6 @@
 ---------------------
 ![Educational Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%203.png)
 
-
-
 Requirements
 ------------
 - Eclipse IDE for Enterprise Java and Web Developers
