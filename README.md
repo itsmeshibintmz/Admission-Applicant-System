@@ -17,6 +17,8 @@
 - Educational Details
 ---------------------
 ![Educational Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%203.png)
+- Community Details
+![Community Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%204.png)
 
 Requirements
 ------------
