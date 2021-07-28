@@ -5,14 +5,17 @@
 
 
 # Screenshots
------------
-# - HomePage
+- HomePage
+----------
 ![HomePage(start jsp)](https://user-images.githubusercontent.com/52344717/125885951-5c9382b2-7dc6-409a-a172-7d6505a4ccbc.png)
-# - Fetch Page
+- Fetch Page
+------------
 ![Fetch Page](https://user-images.githubusercontent.com/52344717/125885954-acd04329-879c-42d4-a99e-2152ea8f3f5b.png)
 - Personal Details
+------------------
 ![Personal Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%202.png)
 - Educational Details
+---------------------
 ![Educational Details](https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/Screenshots/Page%203.png)
 
 
