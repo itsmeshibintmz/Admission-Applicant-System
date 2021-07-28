@@ -1,6 +1,7 @@
 # Admission-Applicant-System
-Admission Application System is aimed at developing an online admission application for a college. This system is an online system that can be accessed throughout the organization and outside as well with proper login provided.
-The main goal of the system is to automate the process carried out in the organization with improved performance and realize the vision of paperless admission.
+  Admission Application System is aimed at developing an online admission application for a college. This system is an online system that can be accessed throughout the organization and outside as well with proper login provided.
+  
+  The main goal of the system is to automate the process carried out in the organization with improved performance and realize the vision of paperless admission.
 
 
 Screenshots
