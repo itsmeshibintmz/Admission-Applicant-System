@@ -1,5 +1,7 @@
 <img alt="os" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
 
+<img alt="os" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
+
 # Admission-Applicant-System
   Admission Application System is aimed at developing an online admission application for a college. This system is an online system that can be accessed throughout the organization and outside as well with proper login provided.
   
@@ -41,3 +43,5 @@ Requirements
 - Sqlite JDBC
 - Apache Tomcat Server
 - JDK 15
+
+<img alt="os" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
