@@ -22,8 +22,8 @@ jobs:
       with:
         java-version: '11'
         distribution: 'adopt'
-        server-id: github # Value of the distributionManagement/repository/id field of the pom.xml
-        settings-path: ${{ github.workspace }} # location for the settings.xml file
+        server-id: https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/pom.xml # Value of the distributionManagement/repository/id field of the pom.xml
+        settings-path: ${{ https://github.com/itsmeshibintmz/Admission-Applicant-System/blob/main/pom.xml }} # location for the settings.xml file
 
     - name: Build with Maven
       run: mvn -B package --file pom.xml
